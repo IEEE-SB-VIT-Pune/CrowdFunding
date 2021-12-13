@@ -30,7 +30,7 @@ A **smart contract** in crowdfunding is a **self-executing agreement** between i
 
 <img width="321" alt="crowd1" src="https://user-images.githubusercontent.com/85681285/145810698-28d1ff36-1498-4c83-8c07-d5a35d0c518d.png">
 
-#### The first 4 fields in above image represent functions and the remaining fields are the public variables used in this smart contract.
+#### The first 4 fields in above image represent the functions and the remaining fields are the public variables used in this smart contract.
 
 ## 	:lock_with_ink_pen: Conclusion :
 - As per the problem statement we have successfully created a smart contract which is built in such a way that it ensures well structured functioning as per our design. 
