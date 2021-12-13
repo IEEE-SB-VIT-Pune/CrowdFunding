@@ -56,7 +56,6 @@ contract CrowdFunding{
         _;
     }
 
-// 
     function createRequests(string memory _description, address payable _recipient, uint _value) public onlyManger
     {
         Request storage newRequest = requests[numRequests]; 
