@@ -24,12 +24,14 @@ A **smart contract** in crowdfunding is a **self-executing agreement** between i
 
 <img width="321" alt="crowd1" src="https://user-images.githubusercontent.com/85681285/145810698-28d1ff36-1498-4c83-8c07-d5a35d0c518d.png">
 
+
 The first 4 fields represent functions and the remaining fields are the public variables used in this smart contract.
  
 <img width="339" alt="crowd2" src="https://user-images.githubusercontent.com/85681285/145810903-5224cb29-5dc5-49df-813c-b6dbd808802f.png">
 
 
 How to start executing this smart contract -
-**Step 1:** Compile the .sol file. Once it has been compiled and no bugs are detected you can deploy your project.
-**Step 2 :** Deploy the project. For this you have to pass in values for 2 fields that is the Target Amount the manager wants to achieve and the Time Duration before which the Target has to be achieved.
-**Step 3 :** Click on the Deploy button and you are good to go !
+
+1. Compile the .sol file. Once it has been compiled and no bugs are detected you can deploy your project.
+2. Deploy the project. For this you have to pass in values for 2 fields that is the Target Amount the manager wants to achieve and the Time Duration before which the Target has to be achieved.
+3. Click on the Deploy button and you are good to go !
