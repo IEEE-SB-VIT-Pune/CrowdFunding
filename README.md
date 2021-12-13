@@ -1,4 +1,4 @@
-# Smart Contract for CrowdFunding using Solidity
+# Smart Contract for CrowdFunding using Solidity :page_facing_up:
 #### Second project of IEEE's Workshop: Build your own Blockchain from Cryptocurrency to Smart Contracts
 
 This project implements crowdfunding using smart contracts via solidity in ethereum blockchain technology.
