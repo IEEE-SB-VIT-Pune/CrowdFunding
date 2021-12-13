@@ -32,6 +32,6 @@ The first 4 fields represent functions and the remaining fields are the public v
 
 How to start executing this smart contract -
 
-1. Compile the .sol file. Once it has been compiled and no bugs are detected you can deploy your project.
+1. Upload and Compile the .sol file in Remix IDE. Once it has been compiled and no bugs are detected you can deploy your project.
 2. Deploy the project. For this you have to pass in values for 2 fields that is the Target Amount the manager wants to achieve and the Time Duration before which the Target has to be achieved.
 3. Click on the Deploy button and you are good to go !
