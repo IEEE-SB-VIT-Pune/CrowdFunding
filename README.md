@@ -1,5 +1,5 @@
 # Smart Contract for CrowdFunding using Solidity
-##### Second project of IEEE's Workshop: Build your own Blockchain from Cryptocurrency to Smart Contracts
+#### Second project of IEEE's Workshop: Build your own Blockchain from Cryptocurrency to Smart Contracts
 
 This project implements crowdfunding using smart contracts via solidity in ethereum blockchain technology.
 
@@ -22,15 +22,11 @@ A **smart contract** in crowdfunding is a **self-executing agreement** between i
 - **makePayment** - Only the manager can call this function. If the amount raised is equal to or more than the target and the majority is in favor of the manager then he can execute this function and credit the funds that he has raised to the address provided while creating the request.
 
 
-
-
+<img width="321" alt="crowd1" src="https://user-images.githubusercontent.com/85681285/145810698-28d1ff36-1498-4c83-8c07-d5a35d0c518d.png">
 
 The first 4 fields represent functions and the remaining fields are the public variables used in this smart contract.
-
-
-
-
-
+ 
+<img width="339" alt="crowd2" src="https://user-images.githubusercontent.com/85681285/145810903-5224cb29-5dc5-49df-813c-b6dbd808802f.png">
 
 
 How to start executing this smart contract -
